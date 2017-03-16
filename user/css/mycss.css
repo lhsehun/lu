@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-03-15 11:24:01
+ * @version $Id$
+ */
+ body{
+    background-color: rgba(0,0,0,0.9);
+ }
+ h1{
+ 	text-align: center;
+ 	margin-top:100px;
+ 	color:white;
+ }
+ tr td:first-child{
+ 	padding-left:50px;
+ }
+ table{
+ 	width:400px;
+ 	height:200px;
+ 	margin:0 auto;
+ 	background-color: rgba(255,255,255,0.6);
+ 	font:16px "微软雅黑";
+ }
+ input:focus{
+    outline: none;
+ }
+ a{
+ 	text-decoration: none;
+ 	font:18px/40px "微软雅黑";
+ 	color:white;
+ 	width:100px;
+ 	height:40px;
+ 	background-color:orange;
+ 	display: block;
+ 	text-align: center;
+ }
+ .submit{
+ 	border:none;
+ 	width:80px;
+ 	height:40px;
+ 	color:white;
+ 	background-color:orange;
+ 	font:18px "微软雅黑";
+ 	cursor: pointer;
+ 	margin-left:40px;
+ }
+ 

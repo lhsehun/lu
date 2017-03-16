@@ -1,0 +1,47 @@
+body{
+	background-color:rgba(0,0,0,0.9);
+	padding-top:50px;
+}
+a{
+	text-decoration: none;
+	color:white;
+	font:16px "微软雅黑";
+	padding-left:50px;
+}
+h2{
+	text-align: center;
+	color:white;
+}
+table{
+	border:1px solid #ccc;
+	font:16px "微软雅黑";
+	color:white;
+	margin:0 auto;
+}
+div{
+	margin:0 auto;
+	width:600px;
+}
+th{
+	width:150px;
+	height:70px;
+}
+td{
+	text-align: center;
+	width:150px;
+	height:70px;
+}
+td a{
+	text-decoration: none;
+	color:white;
+	width:80px;
+	height:40px;
+	display: block;
+	font:18px/40px "微软雅黑";
+	padding-left:0px;
+	background-color:lightblue; 
+}
+td a:hover{
+	color:white;
+	background-color:#419FD3;
+}
